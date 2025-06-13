@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 Sobre mim
+## Sobre mim
 
 Atualmente curso **Engenharia da Computação** na Faculdade Digital **Descomplica** e me especializo em desenvolvimento web através da formação **Fullstack da Rocketseat**, focada em tecnologias modernas e práticas de mercado.
 
@@ -35,7 +35,7 @@ Busco aprender e aplicar as melhores práticas de desenvolvimento, com foco em c
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leyvison-menezes/) *(adicione seu link aqui)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/leyvison-menezes/)
 - 📧 E-mail: leyvisonmenezes@gmail.com
 
 ---
